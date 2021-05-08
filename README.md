@@ -8,13 +8,13 @@
 
 - Summary statistics for June:
 
-<img width="400" alt="Screen Shot 2021-05-08 at 3 36 05 PM" src="https://user-images.githubusercontent.com/77898345/117553090-fd462800-b014-11eb-8225-1a82ce34c159.png">
+<img width="600" alt="Screen Shot 2021-05-08 at 3 36 05 PM" src="https://user-images.githubusercontent.com/77898345/117553090-fd462800-b014-11eb-8225-1a82ce34c159.png">
 
 
 
 - Summary statistics for December:
 
-<img width="400" alt="Screen Shot 2021-05-08 at 3 41 00 PM" src="https://user-images.githubusercontent.com/77898345/117553080-f3bcc000-b014-11eb-82bb-e3b2748d6798.png">
+<img width="600" alt="Screen Shot 2021-05-08 at 3 41 00 PM" src="https://user-images.githubusercontent.com/77898345/117553080-f3bcc000-b014-11eb-82bb-e3b2748d6798.png">
 
 
 
