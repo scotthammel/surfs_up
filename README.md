@@ -26,6 +26,8 @@
 
 - The data analysis for both the months of June and December show that the weather in Oahu is sustainable year-round. I would reccommend W. Avy pursue his surf and ice cream shop.
 
+- I recommend analyzing (2-3) more months to make sure the weather patterns are consistant in Oahu, Hawaii. 
+
 - It is worth noting that the data was collected using "sqlite:///hawaii.sqlite" and previous steps were taken to determine the weather station that can determine the most accurate data.
 
 
